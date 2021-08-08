@@ -60,4 +60,4 @@ async def on_message(message):
     if text_capit == "Чё":
         await message.reply("Хуй через плечо")
 
-client.run('ODY2MjkwMzE4NTc2MDU4NDA4.YPQZug.Srku815gc3rcUqfUpsR-VeiL4ZU')
+client.run('Token')
